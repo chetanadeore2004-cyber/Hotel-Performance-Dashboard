@@ -150,6 +150,6 @@ The Power BI dashboard contains:
 
 ### Dashboard Preview
 
-![Hotel Performance Dashboard](Images/Hotel_Performance_Dashboard.png)
+![Hotel Performance Dashboard](Hotel_Performance_Dashboard.png)
 
 ---
