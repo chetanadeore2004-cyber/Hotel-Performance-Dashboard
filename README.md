@@ -12,7 +12,8 @@ The dashboard helps management understand hotel performance and identify areas t
 
 ## 🎯 Business Problem
 
-A hotel has a large amount of booking data, but management does not have a clear view of:
+A hotel has a large amount of booking data, but management does not have a clear view of its revenue, 
+customer booking patterns, room performance, booking channels, and cancellations. :
 
 - Overall booking performance
 - Revenue generated
@@ -113,7 +114,7 @@ The main objectives are:
 
 ---
 
-## 🧮 SQL Analysis
+##  SQL Analysis
 
 SQL was used to analyze:
 
