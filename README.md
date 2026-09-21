@@ -150,18 +150,28 @@ The Power BI dashboard contains:
 
 ### Dashboard Preview
 
-![Hotel Performance Dashboard](Hotel_Performance_Dashboard.png)
+![Hotel Performance Dashboard](Hotel_Performance_Analysis.png)
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-hotel-performance-dashboard/
+hotel-management-powerbi-dashboard/
 │
 ├── Dashboard/
+│   └── Hotel_Performance_Analysis.pbix
+│
 ├── Dataset/
+│   └── Hotel_Booking_Data.xlsx
+|
 ├── SQL/
+│   └── Hotel_Performance_Analysis.sql
+│
 ├── Images/
+│    └── Hotel_Performance_Analysis.png
+│
 ├── Documentation/
+│   └── Project_Description.pdf
+│
 └── README.md
