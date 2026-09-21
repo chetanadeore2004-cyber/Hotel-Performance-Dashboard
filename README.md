@@ -1,8 +1,8 @@
-# 🏨 Hotel Performance Dashboard
+# 🏨 Hotel Performance Analysis
 
 ## 📊 Project Overview
 
-The Hotel Performance Dashboard is a Data Analytics project developed using Power BI and SQL.
+The Hotel Performance Analysis is a Data Analytics project developed using Power BI and SQL.
 
 The objective of this project is to analyze hotel booking data and provide useful insights into revenue, bookings, room performance, customer locations, booking channels, and cancellations.
 
@@ -153,3 +153,15 @@ The Power BI dashboard contains:
 ![Hotel Performance Dashboard](Hotel_Performance_Dashboard.png)
 
 ---
+
+## 📁 Project Structure
+
+```text
+hotel-performance-dashboard/
+│
+├── Dashboard/
+├── Dataset/
+├── SQL/
+├── Images/
+├── Documentation/
+└── README.md
