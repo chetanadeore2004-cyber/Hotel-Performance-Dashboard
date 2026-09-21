@@ -157,7 +157,7 @@ The Power BI dashboard contains:
 ## 📁 Project Structure
 
 ```text
-hotel-management-powerbi-dashboard/
+hotel-peformance-analysid-powerbi-dashboard/
 │
 ├── Dashboard/
 │   └── Hotel_Performance_Analysis.pbix
